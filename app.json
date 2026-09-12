@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Banana Peeler",
+    "slug": "banana-peeler",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/banana-icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.useless.bananapeeler"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFEF5",
+        "foregroundImage": "./assets/banana-adaptive.png"
+      },
+      "predictiveBackGestureEnabled": true,
+      "package": "app.useless.bananapeeler"
+    },
+    "web": {
+      "favicon": "./assets/banana-favicon.png",
+      "name": "Banana Peeler",
+      "shortName": "peel.",
+      "backgroundColor": "#FFFEF5",
+      "themeColor": "#FFFEF5"
+    }
+  }
+}

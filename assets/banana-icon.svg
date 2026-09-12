@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Banana Peeler app icon</title>
+  <rect width="1024" height="1024" fill="#FCF9EF"/>
+  <circle cx="512" cy="512" r="414" fill="#F9EEB9"/>
+  <g transform="translate(106 13) scale(3.1)">
+<g stroke="#594322" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 210 66 C 244 147 209 243 117 276 C 85 286 56 274 42 250 C 110 259 162 205 182 140 C 191 111 193 85 191 66 Z" fill="#F8D348" />
+      <path
+        d="M 209 77 C 224 151 190 227 126 255 C 100 267 78 269 59 260 C 95 279 122 265 148 252 C 208 214 231 138 209 77 Z"
+        fill="#EFBF31"
+        stroke="none"
+      />
+      <path
+        d="M 200 86 C 205 137 176 211 130 238"
+        fill="none"
+        stroke="#FFEB83"
+        stroke-width="9"
+      />
+      <path
+        d="M 214 97 C 222 166 182 243 115 262"
+        fill="none"
+        stroke="#B98D26"
+        stroke-width="1.7"
+      />
+      <path d="M 191 68 L 188 45 Q 197 40 210 45 L 210 66 Z" fill="#B7AF55" />
+      <path d="M 189 46 Q 199 50 210 46 L 209 39 Q 197 35 188 40 Z" fill="#79542E" />
+      <path d="M 42 250 Q 38 249 37 253 L 43 263 Q 47 267 53 262 L 56 258 Z" fill="#79542E" />
+      <path d="M 198 52 L 200 62" fill="none" stroke="#DDD186" stroke-width="2" />
+      <ellipse cx="126" cy="259" rx="1.3" ry="2.1" fill="#B18A31" stroke="none" />
+      <circle cx="132" cy="254" r="1.3" fill="#B18A31" stroke="none" />
+      <circle cx="206" cy="124" r="1.3" fill="#B18A31" stroke="none" />
+    </g>
+<g stroke="#594322" stroke-width="2.7" stroke-linecap="round" fill="none">
+      <path d="M 159 213 L 164 215 M 177 206 L 182 208" />
+      <path d="M 169 222 Q 176 225 178 217" />
+      <ellipse cx="158" cy="221" rx="4.5" ry="2.5" fill="#EEA45D" opacity="0.45" stroke="none" />
+      <ellipse cx="186" cy="212" rx="4.5" ry="2.5" fill="#EEA45D" opacity="0.45" stroke="none" />
+    </g>
+  </g>
+</svg>
